@@ -20,3 +20,4 @@ jobs:
         env:
           ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
           ACR_USER: "${{ secrets.ACR_USER }}"
+          DOCKER_DEFAULT_PLATFORM: linux/arm64
