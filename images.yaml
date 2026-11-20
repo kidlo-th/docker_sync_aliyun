@@ -1,3 +1,2 @@
-nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/natter_check
-nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/natter
-tailscale/tailscale:latest: registry.cn-beijing.aliyuncs.com/io01/tailscale
+quay.io/ascend/vllm-ascend:v0.32.0rc1-a3: registry.cn-hangzhou.aliyuncs.com/erickube/vllm-ascend
+
