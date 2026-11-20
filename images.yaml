@@ -1,2 +1,2 @@
-quay.io/ascend/vllm-ascend:v0.32.0rc1-a3: registry.cn-hangzhou.aliyuncs.com/erickube/vllm-ascend
+quay.io/ascend/vllm-ascend:nightly-main-a3: registry.cn-hangzhou.aliyuncs.com/erickube/vllm-ascend
 
